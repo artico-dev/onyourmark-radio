@@ -1,0 +1,9 @@
+# Audio files live in GitHub Releases, not the repo
+audio/
+.archive
+
+# OS / editor
+.DS_Store
+*.swp
+__pycache__/
+.venv/
