@@ -1,6 +1,6 @@
-# Audio files live in GitHub Releases, not the repo
-audio/
+# Local working files
 .archive
+*.original.mp3
 
 # OS / editor
 .DS_Store

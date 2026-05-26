@@ -10,7 +10,7 @@
   <atom:link href="https://artico-dev.github.io/onyourmark-radio/feed.xml" rel="self" type="application/rss+xml"/>
   <language>ja</language>
   <copyright>© onyourmark</copyright>
-  <lastBuildDate>Tue, 26 May 2026 00:12:31 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 00:16:42 +0000</lastBuildDate>
   <description>雑誌markの編集部が、ランニング・トレイル・自転車・クライミングなど エンデュランススポーツを軸に、識者・アスリート・クリエイターを招いて語るポッドキャスト。2020〜2022年に配信された全23エピソードのアーカイブです。</description>
   <itunes:author>onyourmark編集部</itunes:author>
   <itunes:summary>雑誌markの編集部が、ランニング・トレイル・自転車・クライミングなど エンデュランススポーツを軸に、識者・アスリート・クリエイターを招いて語るポッドキャスト。2020〜2022年に配信された全23エピソードのアーカイブです。</itunes:summary>
@@ -32,7 +32,7 @@
     <content:encoded><![CDATA[スポーツ・フィットネスに関わるホットな話題や注目の取り組みをゲストに訊くonyourmark Radio。今回は、「実践編」として、読者の皆さんがトライできる呼吸法プログラム。身体の不調改善や健康のために、ぜひトライしてみてください！　お相手は編集長の小俣雄風太です。]]></content:encoded>
     <pubDate>Mon, 13 Dec 2021 23:05:04 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-1177329772</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep23.mp3" length="41430406" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep23.mp3" length="41430406" type="audio/mpeg"/>
     <itunes:duration>40:02</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep23.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -53,7 +53,7 @@ https://mag.onyourmark.jp/2021/11/oymradio22/138472]]></description>
 https://mag.onyourmark.jp/2021/11/oymradio22/138472]]></content:encoded>
     <pubDate>Mon, 06 Dec 2021 21:38:24 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-1173051160</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep22.mp3" length="74967956" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep22.mp3" length="74967956" type="audio/mpeg"/>
     <itunes:duration>1:13:36</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep22.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -74,7 +74,7 @@ https://mag.onyourmark.jp/2021/11/onyourmarkradio21/138084]]></description>
 https://mag.onyourmark.jp/2021/11/onyourmarkradio21/138084]]></content:encoded>
     <pubDate>Thu, 11 Nov 2021 13:29:54 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-1158067747</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep21.mp3" length="73752983" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep21.mp3" length="73752983" type="audio/mpeg"/>
     <itunes:duration>49:33</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep21.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -91,7 +91,7 @@ https://mag.onyourmark.jp/2021/11/onyourmarkradio21/138084]]></content:encoded>
 スポーツ・フィットネスに関わるホットな話題や注目の取り組みをゲストに訊くonyourmark Radio。今回は、StravaのThe Athlete In You “アスリートは、わたしたちの中に。”キャンペーンと連動し、フィーチャーアスリートの3名に、それぞれのスポーツとの向き合い方、スポーツがいかにそれぞれの人生と深く関わっているかを伺いました。お相手は編集長の小俣雄風太です。]]></content:encoded>
     <pubDate>Wed, 13 Oct 2021 14:12:28 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-1141115344</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep20.mp3" length="79479684" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep20.mp3" length="79479684" type="audio/mpeg"/>
     <itunes:duration>1:19:47</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep20.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -108,7 +108,7 @@ https://mag.onyourmark.jp/2021/11/onyourmarkradio21/138084]]></content:encoded>
 スポーツ・フィットネスに関わるホットな話題や注目の取り組みをゲストに訊くonyourmark Radio。今回は、いよいよ開幕が目前に迫った東京五輪から、onyourmark的な4つの種目、自転車ロードレース、マウンテンバイク、スポーツクライミング、そしてマラソンについての見どころを、各種目の識者にうかがいます。ゲストにフォトグラファーの辻啓さん（ロードレース）、蛯子さん（MTB XCO）、Mikipedia主宰の植田幹也さん（スポーツクライミング）、ライターの和田悟志さん（マラソン）をお迎えし、競技特性から試合の見方、注目選手を聞きました。お相手は編集長の小俣雄風太です。]]></content:encoded>
     <pubDate>Fri, 23 Jul 2021 03:46:02 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-1092549832</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep19.mp3" length="116911306" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep19.mp3" length="82107931" type="audio/mpeg"/>
     <itunes:duration>1:52:49</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep19.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -137,7 +137,7 @@ https://mag.onyourmark.jp/2021/11/onyourmarkradio21/138084]]></content:encoded>
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Tue, 11 May 2021 17:07:24 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-1047004741</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep18.mp3" length="87551789" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep18.mp3" length="87551789" type="audio/mpeg"/>
     <itunes:duration>1:03:09</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep18.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -166,7 +166,7 @@ https://mag.onyourmark.jp/2021/11/onyourmarkradio21/138084]]></content:encoded>
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Thu, 04 Mar 2021 10:49:38 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-998381032</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep17.mp3" length="49298879" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep17.mp3" length="49298879" type="audio/mpeg"/>
     <itunes:duration>51:15</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep17.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -197,7 +197,7 @@ https://mag.onyourmark.jp/2021/02/onyourmarkradio16/131156
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Wed, 17 Feb 2021 11:04:39 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-987323965</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep16.mp3" length="83093711" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep16.mp3" length="83093711" type="audio/mpeg"/>
     <itunes:duration>1:03:51</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep16.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -232,7 +232,7 @@ https://mag.onyourmark.jp/2021/02/onyourmarkradio15/130689
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Wed, 03 Feb 2021 12:35:16 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-978258313</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep15.mp3" length="52089720" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep15.mp3" length="52089720" type="audio/mpeg"/>
     <itunes:duration>54:09</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep15.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -263,7 +263,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Sun, 20 Dec 2020 15:52:07 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-951177880</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep14.mp3" length="71004321" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep14.mp3" length="71004321" type="audio/mpeg"/>
     <itunes:duration>51:01</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep14.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -292,7 +292,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Tue, 24 Nov 2020 09:51:01 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-935045290</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep13.mp3" length="45923672" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep13.mp3" length="45923672" type="audio/mpeg"/>
     <itunes:duration>47:43</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep13.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -321,7 +321,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Wed, 11 Nov 2020 14:12:39 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-927309763</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep12.mp3" length="60826618" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep12.mp3" length="60826618" type="audio/mpeg"/>
     <itunes:duration>48:04</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep12.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -350,7 +350,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Sat, 19 Sep 2020 01:45:14 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-895766101</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep11b.mp3" length="51983040" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep11b.mp3" length="51983040" type="audio/mpeg"/>
     <itunes:duration>54:02</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep11b.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -379,7 +379,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Mon, 14 Sep 2020 07:07:41 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-892927042</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep11a.mp3" length="44064368" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep11a.mp3" length="44064368" type="audio/mpeg"/>
     <itunes:duration>45:47</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep11a.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -408,7 +408,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Sat, 01 Aug 2020 02:26:34 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-868216924</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep10.mp3" length="77102022" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep10.mp3" length="77102022" type="audio/mpeg"/>
     <itunes:duration>1:02:09</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep10.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -437,7 +437,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Fri, 17 Jul 2020 03:56:27 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-859465114</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep09.mp3" length="74647499" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep09.mp3" length="74647499" type="audio/mpeg"/>
     <itunes:duration>1:01:37</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep09.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -466,7 +466,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Thu, 18 Jun 2020 14:30:42 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-842409319</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep08.mp3" length="96012290" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep08.mp3" length="96012290" type="audio/mpeg"/>
     <itunes:duration>1:16:09</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep08.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -495,7 +495,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Fri, 22 May 2020 10:18:10 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-825727651</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep06.mp3" length="91461406" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep06.mp3" length="91461406" type="audio/mpeg"/>
     <itunes:duration>1:09:33</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep06.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -524,7 +524,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Thu, 14 May 2020 15:16:49 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-820396420</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep05.mp3" length="76896667" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep05.mp3" length="76896667" type="audio/mpeg"/>
     <itunes:duration>1:01:06</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep05.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -553,7 +553,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Sun, 10 May 2020 01:16:40 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-817255783</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep04.mp3" length="79586345" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep04.mp3" length="79586345" type="audio/mpeg"/>
     <itunes:duration>41:23</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep04.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -582,7 +582,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
 ▼ご意見、ご感想などはハッシュタグ #OYMRadio をつけてご投稿ください。]]></content:encoded>
     <pubDate>Wed, 29 Apr 2020 10:02:56 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-809653510</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep03.mp3" length="67580364" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep03.mp3" length="67580364" type="audio/mpeg"/>
     <itunes:duration>52:21</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep03.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -599,7 +599,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
 今回のキーワード #サイクルフォトグラファー　#TJAR　#短パーニ　#ツール・ド・フランス延期　#1億総フォトグラファー時代]]></content:encoded>
     <pubDate>Wed, 22 Apr 2020 15:01:00 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-804590098</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep02.mp3" length="56088486" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep02.mp3" length="56088486" type="audio/mpeg"/>
     <itunes:duration>39:48</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep02.jpg"/>
     <itunes:explicit>false</itunes:explicit>
@@ -612,7 +612,7 @@ https://mag.onyourmark.jp/2020/12/onyourmarkradio14/129750
     <content:encoded><![CDATA[onyourmark Radio第1回は、編集部小俣と編集長松田による、自粛要請時代のスポーツメディア論、「Stay home stay fit」について、4/15に新刊が発売される雑誌mark第13号の制作裏話etc.をお届けします。]]></content:encoded>
     <pubDate>Mon, 13 Apr 2020 09:03:17 +0000</pubDate>
     <guid isPermaLink="false">onyourmark-radio-797340352</guid>
-    <enclosure url="https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0/ep01.mp3" length="44095099" type="audio/mpeg"/>
+    <enclosure url="https://artico-dev.github.io/onyourmark-radio/audio/ep01.mp3" length="44095099" type="audio/mpeg"/>
     <itunes:duration>33:45</itunes:duration>
     <itunes:image href="https://artico-dev.github.io/onyourmark-radio/thumbnails/ep01.jpg"/>
     <itunes:explicit>false</itunes:explicit>

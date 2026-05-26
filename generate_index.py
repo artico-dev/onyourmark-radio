@@ -20,7 +20,7 @@ SHOW_DESC = (
     "エンデュランススポーツを軸に、識者・アスリート・クリエイターを招いて語るポッドキャスト。"
     "2020〜2022年に配信された全23エピソードのアーカイブです。"
 )
-RELEASE_BASE = "https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0"
+RELEASE_BASE = "https://artico-dev.github.io/onyourmark-radio/audio"
 FEED_URL = "feed.xml"
 
 

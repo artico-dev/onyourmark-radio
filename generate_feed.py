@@ -38,7 +38,7 @@ SHOW = {
     # Public URLs once published
     "site_url": "https://artico-dev.github.io/onyourmark-radio/",
     "feed_url": "https://artico-dev.github.io/onyourmark-radio/feed.xml",
-    "release_base": "https://github.com/artico-dev/onyourmark-radio/releases/download/v1.0",
+    "release_base": "https://artico-dev.github.io/onyourmark-radio/audio",
     "image_url": "https://artico-dev.github.io/onyourmark-radio/show-artwork.jpg",
 }
 # -------------------------------------------------------------------------
