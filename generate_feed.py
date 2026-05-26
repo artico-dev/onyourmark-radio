@@ -144,9 +144,11 @@ def build_feed(items: list[dict]) -> str:
     ]
     for it in items:
         desc = it["description"] or it["title"]
+        ep_link = f"{SHOW['site_url']}#{release_filename(it['num'], it['suffix']).removesuffix('.mp3')}"
         parts += [
             "  <item>",
             f"    <title>{escape(it['title'])}</title>",
+            f"    <link>{escape(ep_link)}</link>",
             f"    <description><![CDATA[{desc}]]></description>",
             f"    <content:encoded><![CDATA[{desc}]]></content:encoded>",
             f"    <pubDate>{rfc822(it['timestamp'])}</pubDate>",
